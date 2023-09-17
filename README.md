@@ -1,5 +1,4 @@
-# essc
-二手市场合作规范
+# RSSC合作规范
 
 ### API First
 api工具：apifox。
